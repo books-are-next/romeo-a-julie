@@ -1,38 +1,18 @@
 {
   "author": "William Shakespeare",
   "edition": "beletrie",
-  "identifier": "shakespeare-romeo-a-julie-ce8edd7",
+  "identifier": "shakespeare-romeo-a-julie-7d139c9",
   "languagecode": "cs",
   "modified": "2022-01-13T16:10:50.440Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Romeo a Julie",
-  "revision": "ce8edd7",
+  "revision": "7d139c9",
   "generatedAt": {
-    "date": "Thu Jan 13 2022 16:29:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642091347256
+    "date": "Thu Jan 13 2022 16:42:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642092162999
   },
   "documents": [
-    {
-      "title": "Romeo a Julie",
-      "file": "romeo_a_julie_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "romeo_a_julie_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Romeo a Julie",
       "file": "romeo_a_julie_002.html",
@@ -40,48 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "romeo_a_julie_001.html",
-      "next": "romeo_a_julie_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Romeo a Julie",
-      "file": "romeo_a_julie_003.html",
-      "words": 9,
-      "chars": 60,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "romeo_a_julie_002.html",
-      "next": "romeo_a_julie_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Romeo a Julie",
-      "file": "romeo_a_julie_004.html",
-      "words": 83,
-      "chars": 538,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "romeo_a_julie_003.html",
+      "order": 0,
+      "prev": null,
       "next": "romeo_a_julie_005.html",
       "toc": [
         {
@@ -100,8 +40,8 @@
       "chars": 692,
       "ideas": 26,
       "role": "chapter",
-      "order": 4,
-      "prev": "romeo_a_julie_004.html",
+      "order": 1,
+      "prev": "romeo_a_julie_002.html",
       "next": "romeo_a_julie_006.html",
       "toc": [
         {
@@ -120,7 +60,7 @@
       "chars": 518,
       "ideas": 18,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "romeo_a_julie_005.html",
       "next": "romeo_a_julie_007.html",
       "toc": [
@@ -140,7 +80,7 @@
       "chars": 29299,
       "ideas": 1055,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "romeo_a_julie_006.html",
       "next": "romeo_a_julie_008.html",
       "toc": [
@@ -196,7 +136,7 @@
       "chars": 27894,
       "ideas": 917,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "romeo_a_julie_007.html",
       "next": "romeo_a_julie_009.html",
       "toc": [
@@ -266,7 +206,7 @@
       "chars": 33059,
       "ideas": 1163,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "romeo_a_julie_008.html",
       "next": "romeo_a_julie_010.html",
       "toc": [
@@ -322,7 +262,7 @@
       "chars": 16704,
       "ideas": 605,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "romeo_a_julie_009.html",
       "next": "romeo_a_julie_011.html",
       "toc": [
@@ -378,9 +318,9 @@
       "chars": 17363,
       "ideas": 634,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "romeo_a_julie_010.html",
-      "next": "romeo_a_julie_012.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -414,20 +354,20 @@
       ]
     },
     {
-      "title": "Romeo a Julie",
-      "file": "romeo_a_julie_012.html",
-      "words": 51,
-      "chars": 347,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 11,
+      "title": "Tiráž • Romeo a Julie",
+      "file": "colophon.html",
+      "words": 144,
+      "chars": 950,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "romeo_a_julie_011.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -441,9 +381,9 @@
       "ideas": 4446
     },
     "chapters": {
-      "words": 22965,
-      "chars": 126474,
-      "ideas": 4441
+      "words": 22822,
+      "chars": 125529,
+      "ideas": 4418
     }
   }
 }

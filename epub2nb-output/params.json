@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "romeo_a_julie_001.md",
             "xhtml": "romeo_a_julie_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -48,9 +49,9 @@
             "filename": "romeo_a_julie_002.md",
             "xhtml": "romeo_a_julie_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,9 +59,9 @@
             "filename": "romeo_a_julie_003.md",
             "xhtml": "romeo_a_julie_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -68,9 +69,9 @@
             "filename": "romeo_a_julie_004.md",
             "xhtml": "romeo_a_julie_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -82,7 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OSOBY"
           },
           {
             "filename": "romeo_a_julie_006.md",
@@ -92,7 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "PROSLOV"
           },
           {
             "filename": "romeo_a_julie_007.md",
@@ -102,7 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ PRVNÍ"
           },
           {
             "filename": "romeo_a_julie_008.md",
@@ -112,7 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ DRUHÉ"
           },
           {
             "filename": "romeo_a_julie_009.md",
@@ -122,7 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ TŘETÍ"
           },
           {
             "filename": "romeo_a_julie_010.md",
@@ -132,7 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ ČTVRTÉ"
           },
           {
             "filename": "romeo_a_julie_011.md",
@@ -142,15 +149,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "JEDNÁNÍ PÁTÉ"
           },
           {
             "filename": "romeo_a_julie_012.md",
             "xhtml": "romeo_a_julie_012.xhtml",
             "id": 11,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -164,7 +172,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "William Shakespeare",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-13T16:27:58.524Z"
+      "modified": "2022-01-13T16:41:48.688Z"
     },
     "chapters": [
       {
@@ -312,6 +320,6 @@
       "user": "books-are-next",
       "repo": "romeo-a-julie"
     },
-    "generatedAt": 1642091279291
+    "generatedAt": 1642092109478
   }
 }
