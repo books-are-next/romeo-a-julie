@@ -12,10 +12,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - romeo_a_julie_001.html
   - romeo_a_julie_002.html
-  - romeo_a_julie_003.html
-  - romeo_a_julie_004.html
   - romeo_a_julie_005.html
   - romeo_a_julie_006.html
   - romeo_a_julie_007.html
@@ -23,11 +20,33 @@ readingOrder:
   - romeo_a_julie_009.html
   - romeo_a_julie_010.html
   - romeo_a_julie_011.html
-  - romeo_a_julie_012.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: romeo_a_julie_005.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: romeo_a_julie_006.html
+        title: PROSLOV
+        hiddenTitle: false
+      - link: romeo_a_julie_007.html
+        title: JEDNÁNÍ PRVNÍ
+        hiddenTitle: false
+      - link: romeo_a_julie_008.html
+        title: JEDNÁNÍ DRUHÉ
+        hiddenTitle: false
+      - link: romeo_a_julie_009.html
+        title: JEDNÁNÍ TŘETÍ
+        hiddenTitle: false
+      - link: romeo_a_julie_010.html
+        title: JEDNÁNÍ ČTVRTÉ
+        hiddenTitle: false
+      - link: romeo_a_julie_011.html
+        title: JEDNÁNÍ PÁTÉ
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
