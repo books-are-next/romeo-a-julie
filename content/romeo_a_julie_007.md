@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ PRVNÍ
+contentType: prose
 ---
 
 ## Scéna 1.

@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ ČTVRTÉ
+contentType: prose
 ---
 
 ## Scéna 1.

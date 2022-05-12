@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ PÁTÉ
+contentType: prose
 ---
 
 ## Scéna 1.
