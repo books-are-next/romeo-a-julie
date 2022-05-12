@@ -1,5 +1,6 @@
 ---
 title: PROSLOV
+contentType: prose
 ---
 
 _Vystoupí CHORUS._

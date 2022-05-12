@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ DRUHÉ
+contentType: prose
 ---
 
 ## Proslov

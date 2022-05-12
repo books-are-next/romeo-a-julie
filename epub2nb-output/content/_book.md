@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Romeo a Julie
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - romeo_a_julie_002.html
+  - promo.html
   - romeo_a_julie_005.html
   - romeo_a_julie_006.html
   - romeo_a_julie_007.html

@@ -49,7 +49,7 @@
             "filename": "romeo_a_julie_002.md",
             "xhtml": "romeo_a_julie_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -172,7 +172,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "William Shakespeare",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-13T16:41:48.688Z"
+      "modified": "2021-03-03T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -320,6 +320,6 @@
       "user": "books-are-next",
       "repo": "romeo-a-julie"
     },
-    "generatedAt": 1642092109478
+    "generatedAt": 1652351392894
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: OSOBY
+contentType: prose
 ---
 
 **ESKALUS**, kníže veronský

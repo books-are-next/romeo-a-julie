@@ -1,5 +1,6 @@
 ---
 title: JEDNÁNÍ TŘETÍ
+contentType: prose
 ---
 
 ## Scéna 1.

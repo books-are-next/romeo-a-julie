@@ -1,21 +1,34 @@
 {
-  "author": "William Shakespeare",
-  "edition": "beletrie",
-  "identifier": "shakespeare-romeo-a-julie-7d139c9",
-  "languagecode": "cs",
-  "modified": "2022-01-13T16:10:50.440Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Romeo a Julie",
-  "revision": "7d139c9",
+  "author": "William Shakespeare",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "shakespeare-romeo-a-julie-755c788",
+  "revision": "755c788",
+  "readingOrder": [
+    "promo.html",
+    "romeo_a_julie_005.html",
+    "romeo_a_julie_006.html",
+    "romeo_a_julie_007.html",
+    "romeo_a_julie_008.html",
+    "romeo_a_julie_009.html",
+    "romeo_a_julie_010.html",
+    "romeo_a_julie_011.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Jan 13 2022 16:42:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642092162999
+    "date": "Thu May 12 2022 10:37:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351865852
   },
   "documents": [
     {
-      "title": "Romeo a Julie",
-      "file": "romeo_a_julie_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +36,17 @@
       "order": 0,
       "prev": null,
       "next": "romeo_a_julie_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "OSOBY • Romeo a Julie",
+      "title": "OSOBY",
       "file": "romeo_a_julie_005.html",
       "words": 98,
       "chars": 692,
       "ideas": 26,
       "role": "chapter",
       "order": 1,
-      "prev": "romeo_a_julie_002.html",
+      "prev": "promo.html",
       "next": "romeo_a_julie_006.html",
       "toc": [
         {
@@ -54,7 +59,7 @@
       ]
     },
     {
-      "title": "PROSLOV • Romeo a Julie",
+      "title": "PROSLOV",
       "file": "romeo_a_julie_006.html",
       "words": 87,
       "chars": 518,
@@ -74,7 +79,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PRVNÍ • Romeo a Julie",
+      "title": "JEDNÁNÍ PRVNÍ",
       "file": "romeo_a_julie_007.html",
       "words": 5337,
       "chars": 29299,
@@ -130,7 +135,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ DRUHÉ • Romeo a Julie",
+      "title": "JEDNÁNÍ DRUHÉ",
       "file": "romeo_a_julie_008.html",
       "words": 5065,
       "chars": 27894,
@@ -200,7 +205,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ TŘETÍ • Romeo a Julie",
+      "title": "JEDNÁNÍ TŘETÍ",
       "file": "romeo_a_julie_009.html",
       "words": 6030,
       "chars": 33059,
@@ -256,7 +261,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ ČTVRTÉ • Romeo a Julie",
+      "title": "JEDNÁNÍ ČTVRTÉ",
       "file": "romeo_a_julie_010.html",
       "words": 2988,
       "chars": 16704,
@@ -312,7 +317,7 @@
       ]
     },
     {
-      "title": "JEDNÁNÍ PÁTÉ • Romeo a Julie",
+      "title": "JEDNÁNÍ PÁTÉ",
       "file": "romeo_a_julie_011.html",
       "words": 3217,
       "chars": 17363,
@@ -354,11 +359,11 @@
       ]
     },
     {
-      "title": "Tiráž • Romeo a Julie",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 144,
-      "chars": 950,
-      "ideas": 24,
+      "words": 121,
+      "chars": 778,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "romeo_a_julie_011.html",
@@ -376,9 +381,9 @@
   ],
   "totals": {
     "all": {
-      "words": 22973,
-      "chars": 126522,
-      "ideas": 4446
+      "words": 22950,
+      "chars": 126350,
+      "ideas": 4440
     },
     "chapters": {
       "words": 22822,
