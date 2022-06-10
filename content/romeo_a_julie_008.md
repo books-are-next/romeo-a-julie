@@ -3,6 +3,8 @@ title: JEDNÁNÍ DRUHÉ
 contentType: prose
 ---
 
+<section>
+
 ## Proslov
 
 _Vystoupí CHORUS._
@@ -1381,3 +1383,5 @@ vás samy nenechat můj úřad velí,
 než svatá církev oba v jedno vtělí.
 
 _Odejdou._
+
+</section>

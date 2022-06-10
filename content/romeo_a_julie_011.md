@@ -3,6 +3,8 @@ title: JEDNÁNÍ PÁTÉ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Mantova. — Ulice._
@@ -870,3 +872,5 @@ Však sudby žalnější svět nevzpomíná,
 než jest Romeova a Juliina.
 
 _Odejdou._
+
+</section>
