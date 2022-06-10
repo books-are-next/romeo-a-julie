@@ -3,6 +3,8 @@ title: JEDNÁNÍ TŘETÍ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Náměstí._
@@ -1616,3 +1618,5 @@ Jdu; mnich ať dá mi radu k posledu;
 a vše-li marno, umřít dovedu.
 
 __Odejde.__
+
+</section>

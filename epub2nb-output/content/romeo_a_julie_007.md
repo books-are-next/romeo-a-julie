@@ -3,6 +3,8 @@ title: JEDNÁNÍ PRVNÍ
 contentType: prose
 ---
 
+<section>
+
 ## Scéna 1.
 
 _Verona — Náměstí._
@@ -1587,3 +1589,5 @@ _Volá se za scénou: „Julie!“_
 Nuž pojďme, nikdo z cizích už tu není.
 
 _Odejdou._
+
+</section>

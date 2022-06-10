@@ -3,6 +3,8 @@ title: PROSLOV
 contentType: prose
 ---
 
+<section>
+
 _Vystoupí CHORUS._
 
 **CHORUS**:
@@ -23,3 +25,5 @@ A budete-li trpělivost míti,
 co vadno zde, chcem snahou nahraditi.
 
 __Odejde.__
+
+</section>

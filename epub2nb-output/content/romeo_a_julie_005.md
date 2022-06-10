@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **ESKALUS**, kníže veronský
 
 **PARIS**, mladý šlechtic, příbuzný knížete
@@ -52,3 +54,5 @@ MĚŠŤANÉ VERONŠTÍ — PŘÍBUZNÍ OBOU RODŮ — MASKY, STRÁŽE, HLÍDKY
 **CHORUS**
 
 _Dějiště: Verona; Mantova_
+
+</section>
