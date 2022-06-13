@@ -38,7 +38,7 @@ když jí jest dobře.
 
 **BALTAZAR**:
 
-                                   Tedy jest jí dobře,  
+            Tedy jest jí dobře,  
 a v praničem zle býti nemůže;  
 neb tělo v kryptě Kapuletů spí,  
 duch nesmrtelný žije s anděly.  
@@ -62,7 +62,7 @@ cos neblahého věští.
 
 **ROMEO**:
 
-                                        Mýlíš se;  
+            Mýlíš se;  
 jen jdi a zařiď, co jsem poručil.  
 Mnich nesvěřil ti pro mne žádný list?
 
@@ -72,7 +72,7 @@ Ne, dobrý pane.
 
 **ROMEO**:
 
-                               Neškodí; již jdi;  
+            Neškodí; již jdi;  
 ty koně zamluv; hned jsem za tebou.
 
 _Odejde BALTAZAR._
@@ -109,7 +109,7 @@ _Vystoupí LÉKÁRNÍK._
 
 **LÉKÁRNÍK**:
 
-                             Kdo tak hlučně volá?
+            Kdo tak hlučně volá?
 
 **ROMEO**:
 
@@ -155,7 +155,7 @@ hned mrtev padnete.
 
 **ROMEO**:
 
-                                         Zde tvoje zlato;  
+            Zde tvoje zlato;  
 pro lidské duše mnohem horší jed,  
 jenž vraždí víc v tom světě ohavném  
 než bídná směs, jíž nesmíš prodávat.  
@@ -338,7 +338,7 @@ Však chopím se ho.
 
 _Vystoupí._
 
-                                      Ustaň v bezbožném  
+            Ustaň v bezbožném  
 svém díle, zlotřilý ty Monteku!  
 Což může pomsta dále jít než smrt?  
 Stůj, kletý lotře, jsi můj zajatec;  
@@ -381,7 +381,7 @@ __Odejde.__
 
 __Klesne.__
 
-                   Máš-li milosrdenství,  
+            Máš-li milosrdenství,  
 hrob otevři a slož mne k Julii.
 
 __Umře.__
@@ -449,7 +449,7 @@ Zde lásce mé!
 
 __Pije.__
 
-                          — Ó nelhal’s, lékárníku,  
+            — Ó nelhal’s, lékárníku,  
 tvůj nápoj věru rychle působí. —  
 A tak s tím políbením umírám.
 
@@ -481,11 +481,11 @@ je tam, jejž máte rád.
 
 **LORENZO**:
 
-                                        Kdo to?
+            Kdo to?
 
 **BALTAZAR**:
 
-                                                       Romeo.
+            Romeo.
 
 **LORENZO**:
 
@@ -493,7 +493,7 @@ Jak dlouho mešká tam?
 
 **BALTAZAR**:
 
-                                             Půl hodiny.
+            Půl hodiny.
 
 **LORENZO**:
 
@@ -501,7 +501,7 @@ Pojď se mnou do sklepení.
 
 **BALTAZAR**:
 
-                                                    Netroufám si.  
+            Netroufám si.  
 Můj pán má za to, že jsem odešel  
 a strašlivě mi smrtí pohrozil,  
 zde kdybych zůstal, stopuje, co dělá.
@@ -519,7 +519,7 @@ a že můj pán ho usmrtil.
 
 **LORENZO**:
 
-                                               Romeo! —
+            Romeo! —
 
 _Jde dále._
 
@@ -588,7 +588,7 @@ Aj, povyk? Tedy zkrátka skončím to.
 
 _Chopí se dýky Romeovy._
 
-                           Zde je pochva tvá;
+            Zde je pochva tvá;
 
 _Probodne se._
 
@@ -628,14 +628,14 @@ byl na hřbitově.
 
 **PRVNÍ STRÁŽNÍK**:
 
-                                 Dobře střežen buď,  
+            Dobře střežen buď,  
 než přijde kníže.
 
 _Vrátí se BRATR LORENZO s jiným STRÁŽNÍKEM._
 
 **TŘETÍ STRÁŽNÍK**:
 
-                                 Tady jakýs mnich,  
+            Tady jakýs mnich,  
 jenž chvěje se a pláče, naříká.  
 My odjali mu rýč a motyku,  
 jak vycházel z té strany hřbitova.
@@ -676,13 +676,13 @@ a ještě nevychladlá.
 
 **KNÍŽE**:
 
-                                      Hledejte  
+            Hledejte  
 a vypátrejte, jak ty podlé vraždy  
 se staly.
 
 **PRVNÍ STRÁŽNÍK**:
 
-                 Zde jest mnich a zabitého  
+            Zde jest mnich a zabitého  
 Romea sluha. Měli nástroje,  
 jež mohly hrob těch mrtvých otevřít.
 

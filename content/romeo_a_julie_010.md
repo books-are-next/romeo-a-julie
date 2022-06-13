@@ -28,7 +28,7 @@ to nemám rád.
 
 **PARIS**:
 
-                             Bez míry oplakává  
+            Bez míry oplakává  
 smrt Tybaltovu; protož mluvil jsem  
 jen málo o lásce; neb Venuše  
 se neusmívá v domě slzavém.  
@@ -67,7 +67,7 @@ Co jisto, bude.
 
 **LORENZO**:
 
-                            O tom pochyb není.
+            O tom pochyb není.
 
 **PARIS**:
 
@@ -110,7 +110,7 @@ než slzy tvoje.
 
 **JULIE**:
 
-                            Není pomluvou,  
+            Není pomluvou,  
 co pravda jest; a co jsem pověděla,  
 jsem sama sobě řekla do tváře.
 
@@ -332,7 +332,7 @@ byl upoután.
 
 **JULIE**:
 
-                         S mladistvým hrabětem  
+            S mladistvým hrabětem  
 jsem setkala se u bratra Lorenza  
 a najevo mu dala lásku svou,  
 co slušelo se v mezích skromnosti.
@@ -369,7 +369,7 @@ jeť skoro noc.
 
 **KAPULET**:
 
-                           Mlč, popoženu to;  
+            Mlč, popoženu to;  
 vše bude dobře, za to ručím, ženo.  
 Jdi k Julii a pomoz jí se strojit;  
 dnes nejdu spát; jen vše mi ponechte;  
@@ -414,7 +414,7 @@ v té kvapné věci.
 
 **HRABĚNKA** **KAPULETOVÁ**:
 
-                                 Dobrou noc; jdi spát  
+            Dobrou noc; jdi spát  
 a odpočiň si; potřebuješ toho.
 
 _Odejdou HRABĚNKA KAPULETOVÁ a CHŮVA._
@@ -505,14 +505,14 @@ a nedbej útrat.
 
 **CHŮVA**:
 
-                            Jděte, kuchyňko,  
+            Jděte, kuchyňko,  
 a lehněte si. Na mou milou věru,  
 vy se nám ještě zítra rozstůněte,  
 tak probděv celou noc.
 
 **KAPULET**:
 
-                                             Ba ani zdání.  
+            Ba ani zdání.  
 Jak? — Žeť jsem druhdy probděl celou noc  
 pro menší věc a nikdy nezastonal.
 
@@ -529,7 +529,7 @@ Ach, žárlí, žárlí!
 
 _Vystoupí tři neb čtyři SLOUŽÍCÍ s rožni, poleny a koši._
 
-                              Hej, ty chlapče tam,  
+            Hej, ty chlapče tam,  
 co neseš?
 
 **PRVNÍ** **SLOUŽÍCÍ**:
@@ -539,7 +539,7 @@ sám nevím co.
 
 **KAPULET**:
 
-                            Jen rychle, rychle, rychle.
+            Jen rychle, rychle, rychle.
 
 _Odejde PRVNÍ SLOUŽÍCÍ._
 
@@ -565,7 +565,7 @@ tak přislíbil to.
 
 _Hudba za scénou._
 
-                             Slyším ho, již jde.  
+            Slyším ho, již jde.  
 Hej, chůvo! Ženo! Chůvo, povídám!
 
 _Vystoupí CHŮVA._
@@ -615,7 +615,7 @@ Jaký to povyk?
 
 **CHŮVA**:
 
-                            Přežalostný den!
+            Přežalostný den!
 
 **HRABĚNKA KAPULETOVÁ**:
 
@@ -623,7 +623,7 @@ Co děje se?
 
 **CHŮVA**:
 
-                       Hle, hle! — Ó hrůzný den!
+            Hle, hle! — Ó hrůzný den!
 
 **HRABĚNKA KAPULETOVÁ**:
 
@@ -660,7 +660,7 @@ na nejsličnější polní květině.
 
 **HRABĚNKA KAPULETOVÁ**:
 
-                        Ó strastná hodino!
+            Ó strastná hodino!
 
 **KAPULET**:
 
@@ -687,7 +687,7 @@ jen smrti náleží.
 
 **PARIS**:
 
-                                Tak dlouho-li  
+            Tak dlouho-li  
 jsem prahnul spatřit jitra toho tvář,  
 a takový mi pohled podává?
 
@@ -783,7 +783,7 @@ své píšťaly a jít.
 
 **CHŮVA**:
 
-                                Jen zastrčte,  
+            Jen zastrčte,  
 mé dobré lidičky, jen zastrčte;  
 vždyť vidíte, že je to prabídné.
 

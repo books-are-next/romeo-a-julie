@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2505-1
 readingOrder:
   - promo.html
   - romeo_a_julie_005.html

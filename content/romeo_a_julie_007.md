@@ -183,7 +183,7 @@ Od sebe, blázni!
 
 __Srazí jim meče.__
 
-                               — Meče zastrčte;  
+            — Meče zastrčte;  
 vždyť ani nevíte, co děláte.
 
 _Vystoupí TYBALT._
@@ -196,7 +196,7 @@ a pohleď na svou smrt!
 
 **BENVOLIO**:
 
-                                                Jen mír chci zjednat.  
+            Jen mír chci zjednat.  
 Meč do pochvy! — Neb se mnou užij ho,  
 bys roztrhl ty lidi od sebe.
 
@@ -237,7 +237,7 @@ _Vystoupí starý MONTEK a HRABĚNKA MONTEKOVÁ._
 
 Ty lotře, Kapulete!
 
-_(K HRABĚNCE.)_                                   Pusť mne již!
+_(K HRABĚNCE.)_             Pusť mne již!
 
 **HRABĚNKA MONTEKOVÁ**:
 
@@ -348,7 +348,7 @@ ji od něho.
 
 **BENVOLIO**:
 
-                   Zdaž doléhal jste naň?
+            Zdaž doléhal jste naň?
 
 **MONTEK**:
 
@@ -384,7 +384,7 @@ Aj, dobré jitro, strýčku!
 
 **ROMEO**:
 
-                                             Den tak mlád?
+            Den tak mlád?
 
 **BENVOLIO**:
 
@@ -392,7 +392,7 @@ Teď právě tlouklo devět.
 
 **ROMEO**:
 
-                                                  Ach, žeť stát  
+            Ach, žeť stát  
 se téměř zdají truchle hodiny!  
 Byl to můj otec, jenž tak odtud spěchal?
 
@@ -403,7 +403,7 @@ Romeův čas?
 
 **ROMEO**:
 
-                          Že toho postrádá,  
+            Že toho postrádá,  
 co maje, čas by krátkým nalézal.
 
 **BENVOLIO**:
@@ -412,11 +412,11 @@ Aj, láska?
 
 **ROMEO**:
 
-                  Bez lásky…
+            Bez lásky…
 
 **BENVOLIO**:
 
-                                          Že bez lásky?
+            Že bez lásky?
 
 **ROMEO**:
 
@@ -447,7 +447,7 @@ Ty nesměješ se?
 
 **BENVOLIO**:
 
-                               Nikoliv, spíš pláču.
+            Nikoliv, spíš pláču.
 
 **ROMEO**:
 
@@ -455,12 +455,12 @@ Proč, dobré srdce?
 
 **BENVOLIO**:
 
-                                    Pro bol, který zrývá  
+            Pro bol, který zrývá  
 tvé dobré srdce.
 
 **ROMEO**:
 
-                                Tak už v lásce bývá.  
+            Tak už v lásce bývá.  
 Můj vlastní bol mi těžce duši svírá,  
 a tvým se převršuje jeho míra;  
 tvá láska, kterou’s najevo mi dal,  
@@ -476,7 +476,7 @@ __Odchází.__
 
 **BENVOLIO**:
 
-                                           Stůj; — jdu s tebou; chceš?  
+            Stůj; — jdu s tebou; chceš?  
 Ty křivdíš mi, když se mne vzdaluješ.
 
 **ROMEO**:
@@ -499,7 +499,7 @@ kdo jest to?
 
 **ROMEO**:
 
-                       Nemocnému kaž, by psal  
+            Nemocnému kaž, by psal  
 svou závěť vážně; — v čas to nepravý  
 řek’s tomu, kdo tak těžce churaví.  
 Nuž, vážně, strýčku, ženu miluji.
@@ -516,7 +516,7 @@ ta, kterou miluji.
 
 **BENVOLIO**:
 
-                                 V terč spanilý,  
+            V terč spanilý,  
 můj strýčku spanilý, se nejspíš střelí.
 
 **ROMEO**:
@@ -602,7 +602,7 @@ mé prosbě?
 
 **KAPULET**:
 
-                      Opakuji jenom to,  
+            Opakuji jenom to,  
 co prve již jsem řekl. — Dítě mé  
 až dotud ve světě je cizinkou,  
 a nevidělo ještě proměny  
@@ -642,7 +642,7 @@ jen číslicí, byť neplatila nic.
 Již pojďte se mnou.
 
 _(K SLOUŽÍCÍMU.)_  
-                                     Brachu, honem jdi  
+            Brachu, honem jdi  
 a po krásné Veroně vynajdi  
 ty, kteří jsou tu psáni. Vyřiď všude,  
 že, komu libo, u mne vítán bude.
@@ -674,7 +674,7 @@ Nač, prosím?
 
 **ROMEO**:
 
-                          Na tvou holeň zlomenou.
+            Na tvou holeň zlomenou.
 
 **BENVOLIO**:
 
@@ -682,7 +682,7 @@ Romeo, zbláznil jsi se?
 
 **ROMEO**:
 
-                                           Nezbláznil;  
+            Nezbláznil;  
 však hůře nežli blázen spoután jsem  
 a vězněn, mořen hlady, trýzněn, bit,  
 a — Dobrý večer, milý člověče!
@@ -807,7 +807,7 @@ Co jest? Kdo volá?
 
 **CHŮVA**:
 
-                                  Vaše paní matka.
+            Vaše paní matka.
 
 **JULIE**:
 
@@ -815,7 +815,7 @@ Zde jsem; co poroučíte?
 
 **HRABĚNKA KAPULETOVÁ**:
 
-                                               Věc je ta —  
+            Věc je ta —  
 Ty, chůvo, poodejdi na chvíli;  
 chcem spolu promluviti v soukromí.  
 Ne, vrať se, chůvo, — vzpomněla jsem si —  
@@ -832,7 +832,7 @@ Ba na hodinu spočtu její stáří.
 
 **CHŮVA**:
 
-                                 Čtrnáct zubů svých  
+            Čtrnáct zubů svých  
 dám na to v sázku, ač mi bohužel  
 jen čtyři zbyly, že jí není čtrnáct.  
 Jak dlouho máme do svatého Petra?
@@ -999,7 +999,7 @@ Hned.
 
 _Odejde SLOUŽÍCÍ._
 
-              Julie, hraběti čekat nedej.
+            Julie, hraběti čekat nedej.
 
 **CHŮVA**:
 
@@ -1074,7 +1074,7 @@ a bodá jako trn.
 
 **MERKUCIO**:
 
-                                      Když drsná k tobě,  
+            Když drsná k tobě,  
 buď drsným na lásku; když bodá tebe,  
 ji bodni ty, a tak ji porazíš.
 
@@ -1085,7 +1085,7 @@ Tak, — larvu na larvu! —
 
 __Dává si masku.__
 
-                                                  Což toho dbám,  
+            Což toho dbám,  
 že bude jakés oko slídivé  
 teď vyzpytávat na mně škaredost? —  
 Ta škraboška ať za mne pýří se.
@@ -1115,7 +1115,7 @@ Zde ve dne svítíme.
 
 **ROMEO**:
 
-                                       Toť věru ne.
+            Toť věru ne.
 
 **MERKUCIO**:
 
@@ -1131,7 +1131,7 @@ však smyslu není v tom.
 
 **MERKUCIO**:
 
-                                                Proč, smím se ptát?
+            Proč, smím se ptát?
 
 **ROMEO**:
 
@@ -1139,11 +1139,11 @@ Já dnes měl sen.
 
 **MERKUCIO**:
 
-                               Já též.
+            Já též.
 
 **ROMEO**:
 
-                                            Co se ti zdálo?
+            Co se ti zdálo?
 
 **MERKUCIO**:
 
@@ -1208,12 +1208,12 @@ Toť ta —
 
 **ROMEO**:
 
-                   Dost, dost, Merkucio, již dost!  
+            Dost, dost, Merkucio, již dost!  
 Ty mluvíš o ničem.
 
 **MERKUCIO**:
 
-                                    Tak; mluvím o snech,  
+            Tak; mluvím o snech,  
 jež nečinného mozku dětmi jsou,  
 jen lichou obrazností zplozeny,  
 tak látkou nehutny jak povětří  
@@ -1230,7 +1230,7 @@ a přijdem pozdě.
 
 **ROMEO**:
 
-                                 Já se obávám,  
+            Já se obávám,  
 že příliš záhy; neboť v duši své  
 mám tušení, že jakás pohroma,  
 jež dosavade visí ve hvězdách,  
@@ -1329,7 +1329,7 @@ jest třicátník.
 
 **KAPULET**:
 
-                          To povídáte mně?  
+            To povídáte mně?  
 Před dvěma roky nezletilý byl.
 
 **ROMEO** _(k SLOUŽÍCÍMU)_:
@@ -1379,7 +1379,7 @@ Mladý Romeo?
 
 **TYBALT**:
 
-                            Padoušský Romeo!
+            Padoušský Romeo!
 
 **KAPULET**:
 
@@ -1401,7 +1401,7 @@ Já nestrpím ho.
 
 **KAPULET**:
 
-                                Musí strpěn být!  
+            Musí strpěn být!  
 Jak, — hošku! — Musí, povídám. — Jen dál. —  
 Jsem já zde pánem, nebo ty? — Jen dál.  
 Ty nestrpíš ho! — Bůh mou duši spas. —  
@@ -1414,7 +1414,7 @@ Vždyť jest to hanba, ujče.
 
 **KAPULET**:
 
-                                                 Dál, jen dál. —  
+            Dál, jen dál. —  
 Vy všetečný jste hoch! — Je tomu tak?  
 Ta hra vás ještě spálí; — vím, co vím.  
 Mně protivit se! — Věru, jest již čas. —  
@@ -1480,7 +1480,7 @@ Můj hřích mi vrať.
 
 **JULIE**:
 
-                                    Vy líbáte jak z knih.
+            Vy líbáte jak z knih.
 
 **CHŮVA**:
 
@@ -1492,7 +1492,7 @@ Kdo její matka?
 
 **CHŮVA**:
 
-                               Aj, můj panáčku,  
+            Aj, můj panáčku,  
 máť její paní toho domu jest,  
 a dobrá paní, moudrá, ctihodná;  
 já dcerku, s níž jste mluvil, kojila,  
@@ -1530,7 +1530,7 @@ Slyš, chůvo, kdo jest onen pán?
 
 **CHŮVA**:
 
-                                                            To syn  
+            To syn  
 a dědic starého Tiberia.
 
 **JULIE**:
@@ -1551,11 +1551,11 @@ To nevím, slečno.
 
 **JULIE**:
 
-                                   Jdi a zeptej se  
+            Jdi a zeptej se  
 na jeho jméno.
 
 _(Stranou.)  
-_                                   Ženat-li, ó vím,  
+_            Ženat-li, ó vím,  
 že bude hrob mým lůžkem svatebním!
 
 **CHŮVA** _(vrátí se k JULII)_:
@@ -1578,14 +1578,14 @@ Co to? Co to?
 
 **JULIE**:
 
-                          Verš, jemuž naučil  
+            Verš, jemuž naučil  
 mne jeden tanečník.
 
 _Volá se za scénou: „Julie!“_
 
 **CHŮVA**:
 
-                                      Hned, v okamžení!  
+            Hned, v okamžení!  
 Nuž pojďme, nikdo z cizích už tu není.
 
 _Odejdou._
