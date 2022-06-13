@@ -115,7 +115,7 @@ než toho, že jsi padouch.
 
 **ROMEO**:
 
-                                                 Tybalte,  
+            Tybalte,  
 ta příčina, jíž mám tě milovat,  
 až příliš krotí hněv, jenž slušel by  
 na taký pozdrav. — Nejsem padouchem;  
@@ -137,18 +137,18 @@ jen utiš se.
 
 **MERKUCIO**:
 
-                       Ó klidná, bezectná  
+            Ó klidná, bezectná  
 a mrzká poddajnost! _Alla stoccata_  
 tu odchází jak vítěz.
 
 __Tasí.__
 
-                                       Tybalte,  
+                  Tybalte,  
 ty krysaři, chceš za mnou?
 
 **TYBALT**:
 
-                                                   Co chceš ty?
+            Co chceš ty?
 
 **MERKUCIO**:
 
@@ -192,7 +192,7 @@ Ty’s raněn?
 
 **MERKUCIO**:
 
-                       Škrábnut, škrábnut; zrovna dost!  
+            Škrábnut, škrábnut; zrovna dost!  
 Kde je můj panoš? Pro lékaře, lotře!
 
 _Odejde PANOŠ._
@@ -211,7 +211,7 @@ Já chtěl to nejlepší.
 
 **MERKUCIO**:
 
-                                     Benvolio,  
+            Benvolio,  
 hleď pomoci mi někam do domu,  
 sic omdlím. — Mor na oba vaše rody!  
 Pro červy pokrm ze mne udělaly!  
@@ -234,7 +234,7 @@ _Vrátí se BENVOLIO._
 
 **BENVOLIO**:
 
-                                                 Ó, Romeo,  
+            Ó, Romeo,  
 Romeo! Statečný Merkucio  
 jest mrtev! — Jeho ušlechtilý duch  
 tou zemí příliš časně zhrdaje,  
@@ -271,7 +271,7 @@ též tam s ním půjdeš.
 
 **ROMEO**:
 
-                                          To zde rozhodni!
+            To zde rozhodni!
 
 _Potýkají se; TYBALT padne._
 
@@ -289,7 +289,7 @@ Jsemť bláznem osudu!
 
 **BENVOLIO**:
 
-                                            Co otálíš?
+            Co otálíš?
 
 _Odejde ROMEO._
 
@@ -306,7 +306,7 @@ Zde leží Tybalt.
 
 **PRVNÍ MĚŠŤAN** _(chopí se TYBALTA)_:
 
-                                Vzhůru, za mnou, pane!  
+            Vzhůru, za mnou, pane!  
 Tak poroučím ti jménem knížete.
 
 _Vystoupí KNÍŽE s DRUŽINOU; MONTEK, KAPULET, jich MANŽELKY a jiní._
@@ -390,7 +390,7 @@ vzav život Tybaltův.
 
 **KNÍŽE**:
 
-                                         A za čin ten  
+            A za čin ten  
 buď bez odkladu z města vyhoštěn.  
 Teď vaše záští také na mne sáhlo  
 a na mou krev paž zdivočilou vztáhlo.  
@@ -464,7 +464,7 @@ tě poslal?
 
 **CHŮVA**:
 
-                  Ano, ano, provazy.
+            Ano, ano, provazy.
 
 _Hodí je na zem._
 
@@ -571,7 +571,7 @@ tak skvělý palác!
 
 **CHŮVA**:
 
-                                Není věrnosti,  
+            Není věrnosti,  
 ni pravdy, poctivosti u mužů;  
 vše falešno, vše křivopřísežno,  
 vše ničemno, vše jeden pokrytec.  
@@ -687,7 +687,7 @@ jejž neznám ještě?
 
 **LORENZO**:
 
-                                   Příliš dobře zná  
+            Příliš dobře zná  
 můj drahý syn tu trpkou družinu. —  
 Zvěst nesu ti o soudu knížecím.
 
@@ -764,7 +764,7 @@ tím slovem „vyhnán“?
 
 **LORENZO**:
 
-                                           Jenom slůvko nech  
+            Jenom slůvko nech  
 mne říci, pošetilý třeštile.
 
 **ROMEO**:
@@ -788,7 +788,7 @@ a nemluv o něm víc.
 
 **LORENZO**:
 
-                                       Ó, tedy vidím,  
+            Ó, tedy vidím,  
 že nemá uší člověk šílený.
 
 **ROMEO**:
@@ -843,7 +843,7 @@ k vám přicházím.
 
 **LORENZO**:
 
-                                    Nuž tedy vítám vás.
+            Nuž tedy vítám vás.
 
 _Vystoupí CHŮVA._
 
@@ -863,12 +863,12 @@ Tam na zemi, zpit svými slzami.
 
 **LORENZO**:
 
-                          Ó, žalná vzájemnost  
+            Ó, žalná vzájemnost  
 a stejně trapný stav!
 
 **CHŮVA**:
 
-                                        Tak leží ona  
+            Tak leží ona  
 a pláče jen a vzdychá, vzdychá, pláče.  
 Přec vstaňte, vstaňte! — Vzhůru, jste-li muž;  
 jí k vůli vstaňte, k vůli Julii!  
@@ -900,7 +900,7 @@ a opět klesá.
 
 **ROMEO**:
 
-                        Jak by jméno to,  
+            Jak by jméno to,  
 jsouc vystřeleno z pušky vražedné,  
 tak ubíjelo ji, jak jména toho  
 paž kletá bratrance jí zabila.  
@@ -975,7 +975,7 @@ Romeo přijde.
 
 **CHŮVA**:
 
-                             Můj ty milý Bože,  
+            Můj ty milý Bože,  
 tak bych tu mohla státi celou noc  
 a jen ty moudré rady poslouchat!  
 Ó, učenost je přec jen velká věc!  
@@ -984,13 +984,13 @@ Nuž, pane, vyřídím to slečince,
 
 **ROMEO**:
 
-                       Jen učiň tak, a řekni  
+            Jen učiň tak, a řekni  
 mé milené, by připravila se  
 mne vyplísnit.
 
 **CHŮVA**:
 
-                            Zde prsten, pane,  
+            Zde prsten, pane,  
 jejž poručila mi vám odevzdat.  
 Jen spěšte, neboť velmi pozdí se.
 
@@ -1013,7 +1013,7 @@ a dobrou noc.
 
 **ROMEO**:
 
-                            Ó, kdyby nevolalo  
+            Ó, kdyby nevolalo  
 mne blaho nad blaho tak neodvratně,  
 jen s želem bych tě opouštěl tak chvatně.  
 Buď zdráv!
@@ -1046,7 +1046,7 @@ mne svojí dceři.
 
 **HRABĚNKA KAPULETOVÁ**:
 
-                                Učiním to ráda,  
+            Učiním to ráda,  
 a z jitra hned zvím její smýšlení;  
 dnes těžkým zármutkem je sklíčena.
 
@@ -1064,7 +1064,7 @@ Co máme dnes?
 
 **PARIS**:
 
-                               Můj pane, pondělí.
+            Můj pane, pondělí.
 
 **KAPULET**:
 
@@ -1186,7 +1186,7 @@ __Sestoupí.__
 
 **JULIE**:
 
-                             A tak’s mi odešel?  
+            A tak’s mi odešel?  
 Můj choti, milenče, můj příteli!  
 Co den a hodinu mi zprávu dávej,  
 neb v jedné minutě jest mnoho dní.  
@@ -1232,7 +1232,7 @@ a zpět ho pošleš.
 
 **HRABĚNKA KAPULETOVÁ** _(za scénou)_:
 
-                                Dcero, jsi již vzhůru?
+            Dcero, jsi již vzhůru?
 
 **JULIE**:
 
@@ -1248,7 +1248,7 @@ Nuž, Julie, jak jest?
 
 **JULIE**:
 
-                                     Nedobře, máti.
+            Nedobře, máti.
 
 **HRABĚNKA KAPULETOVÁ**:
 
@@ -1269,7 +1269,7 @@ jejž oplakáváš.
 
 **JULIE**:
 
-                             Těžce ztrátu cítíc,  
+            Těžce ztrátu cítíc,  
 vždy oplakávat musím přítele.
 
 **HRABĚNKA KAPULETOVÁ**:
@@ -1280,7 +1280,7 @@ ten zlosyn, jenž ho ubil.
 
 **JULIE**:
 
-                                              Jaký zlosyn?
+            Jaký zlosyn?
 
 **HRABĚNKA KAPULETOVÁ**:
 
@@ -1288,7 +1288,7 @@ Zlosyn Romeo.
 
 **JULIE** _(stranou)_:
 
-                              On a zlosyn jsou  
+            On a zlosyn jsou  
 na mnoho mil od sebe vzdáleni!
 
 _(Nahlas.)_  
@@ -1298,12 +1298,12 @@ tak jako on.
 
 **HRABĚNKA KAPULETOVÁ**:
 
-                        To proto, že je živ,  
+            To proto, že je živ,  
 ten zrádný vrah.
 
 **JULIE**:
 
-                                  Tak, máti, mimo dosah  
+            Tak, máti, mimo dosah  
 těch rukou mých. Kéž nikdo nepomstí  
 smrt mého bratrance, než sama já!
 
@@ -1399,7 +1399,7 @@ jí naše rozhodnutí?
 
 **HRABĚNKA KAPULETOVÁ**:
 
-                                     Ano, pane;  
+            Ano, pane;  
 však nechce o tom slyšet, děkuje vám.  
 Ó spíš bych přála si, ta zpozdilá  
 by se svým hrobem byla oddána.
@@ -1434,7 +1434,7 @@ ty tváři lojová!
 
 **HRABĚNKA KAPULETOVÁ**:
 
-                             Fi! — Zbláznil jste se?
+            Fi! — Zbláznil jste se?
 
 **JULIE**:
 
@@ -1458,13 +1458,13 @@ Pryč, daremnice!
 
 **CHŮVA**:
 
-                                  Bůh jí požehnej!  
+            Bůh jí požehnej!  
 Zle, milostivý pane, děláte  
 tím plísněním.
 
 **KAPULET**:
 
-                             Aj, paní Mudroslavo,  
+            Aj, paní Mudroslavo,  
 drž za zuby. Jdi, kmotro Vševědo,  
 si potlachat se svými tetkami.
 
@@ -1478,7 +1478,7 @@ Jdi po svých.
 
 **CHŮVA**:
 
-                         Nesmí člověk promluvit?
+            Nesmí člověk promluvit?
 
 **KAPULET**:
 
@@ -1492,7 +1492,7 @@ Jste příliš prchliv.
 
 **KAPULET**:
 
-                                   Ano, při sám Bůh,  
+            Ano, při sám Bůh,  
 že připravuje mne to o rozum!  
 Dnem, nocí, v každý čas a hodinu,  
 ať pracoval jsem, bavil se, ať sám  
@@ -1555,7 +1555,7 @@ dost malé útěchy?
 
 **CHŮVA**:
 
-                                   Ba věru, mám.  
+            Ba věru, mám.  
 Romeo vyhnán jest, a celý svět  
 chci na to vsadit proti ničemu,  
 že již se neodváží návratu,  
@@ -1600,7 +1600,7 @@ by dal mi rozhřešení.
 
 **CHŮVA**:
 
-                                         Jdu, již jdu;  
+            Jdu, již jdu;  
 a vskutku velmi moudře jednáte.
 
 __Odejde.__

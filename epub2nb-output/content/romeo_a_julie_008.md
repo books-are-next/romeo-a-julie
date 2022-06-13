@@ -97,7 +97,7 @@ by sám se zved’.
 
 **BENVOLIO**:
 
-                                Nuž pojďme, ukryl se  
+            Nuž pojďme, ukryl se  
 kdes v tomto stromoví a bratří se  
 s vlhotnou nocí. — Slepáť láska jeho,  
 a nejraděj’ se s temnem přátelí.
@@ -171,7 +171,7 @@ Ach, žel!
 
 **ROMEO**:
 
-                Teď mluví! — Promluv poznovu,  
+            Teď mluví! — Promluv poznovu,  
 ó jasný anděle! — Neb nad hlavou  
 mi vystupuješ zářná z noční tmy,  
 jak okřídlený posel nebeský  
@@ -210,7 +210,7 @@ mne vezmi celou.
 
 **ROMEO**:
 
-                                   Za slovo tě beru.  
+            Za slovo tě beru.  
 Jen láskou svou mne zvi a na novo  
 tak budu pokřtěn; od té chvíle dál  
 Romeo nechci býti nikdy víc.
@@ -222,7 +222,7 @@ v mé tajemství?
 
 **ROMEO**:
 
-                              Dle jména nevím, jak  
+            Dle jména nevím, jak  
 bych řekl ti, kdo jsem. Své jméno sám,  
 ó, drahá světice, mám v nenávisti,  
 neb vím, že tobě nepřítelem jest;  
@@ -274,7 +274,7 @@ by spatřili tě zde.
 
 **ROMEO**:
 
-                                  Plášť noci mám,  
+            Plášť noci mám,  
 by ukryl mne před jejich očima;  
 a jenom jestli ty mne miluješ,  
 ať najdou mne. Jest lépe, život můj  
@@ -284,7 +284,7 @@ bez lásky tvé.
 
 **JULIE**:
 
-                            Kdo přivedl tě sem?
+            Kdo přivedl tě sem?
 
 **ROMEO**:
 
@@ -336,7 +336,7 @@ ti přísahám —
 
 **JULIE**:
 
-                             Při luně nepřísahej,  
+            Při luně nepřísahej,  
 té luně nestálé, jež měsíčně  
 svůj mění kruh, by proměnlivou tak  
 se neobjevila též láska tvá.
@@ -347,7 +347,7 @@ Nač přísahat mám?
 
 **JULIE**:
 
-                                     Nepřísahej nic;  
+            Nepřísahej nic;  
 neb chceš-li, přísahej na spanilou  
 svou vlastní bytost, která božstvem jest  
 mé modloslužby; — a já uvěřím.
@@ -391,12 +391,12 @@ být mohl dán.
 
 **ROMEO**:
 
-                          Jej odvolat bys chtěla?  
+            Jej odvolat bys chtěla?  
 Nač, milená?
 
 **JULIE**:
 
-                        Bych štědrá mohla být  
+            Bych štědrá mohla být  
 a dala ti jej zas. A přece jen  
 si žádám pouze toho, co již mám.  
 Jeť moje štědrost bezměrná jak moře,  
@@ -415,7 +415,7 @@ __Odejde.__
 
 **ROMEO**:
 
-                        Ó blahá, blahá noci!  
+            Ó blahá, blahá noci!  
 Mám strach, když vůkol noc, že všechno to  
 jest pouhý sen, až příliš lichotný  
 a sladký, než by moh’ mít podstatu.
@@ -444,17 +444,17 @@ tož prosím tebe…
 
 **CHŮVA** _(uvnitř)_:
 
-                                   Slečno!
+            Slečno!
 
 **JULIE**:
 
-                                                  Jdu, již jdu —  
+            Jdu, již jdu —  
 … bys ustal, a mne v žalu zanechal.  
 Já zítra pošlu.
 
 **ROMEO**:
 
-                            Při své duše spáse…
+            Při své duše spáse…
 
 **JULIE**:
 
@@ -497,16 +497,16 @@ Romeo!
 
 **ROMEO**:
 
-                 Drahá?
+            Drahá?
 
 **JULIE**:
 
-                                V kterou hodinu  
+            V kterou hodinu  
 mám zítra k tobě poslat?
 
 **ROMEO**:
 
-                                                K deváté.
+            K deváté.
 
 **JULIE**:
 
@@ -526,14 +526,14 @@ tvá společnost.
 
 **ROMEO**:
 
-                              A já chci dál tu dlít  
+            A já chci dál tu dlít  
 bys jenom stále zapomínala,  
 sám zapomínaje, že jiného  
 mám domova než zde.
 
 **JULIE**:
 
-                                             Jest skoro jitro;  
+            Jest skoro jitro;  
 a chtěla bych, bys odešel; a přec  
 ne dál než ptáče děcka hravého,  
 jež trochu z ruky poskočit je nechá,  
@@ -613,7 +613,7 @@ Zdrav Bůh, můj otče.
 
 **LORENZO**:
 
-                                         Benedicite!  
+            Benedicite!  
 Čí milé rty tak záhy zdravíte?  
 Můj mladý synu, neklidné jen nitro  
 tak časně dává lůžku „dobré jitro“.  
@@ -702,7 +702,7 @@ Chtěl’s, abych lásku pohřbil.
 
 **LORENZO**:
 
-                                                        Ne však v rovu  
+            Ne však v rovu  
 ji pochoval, a jinou vzkřísil znovu.
 
 **ROMEO**:
@@ -713,7 +713,7 @@ ne dřív tak.
 
 **LORENZO**:
 
-                       Znalať, že tvé milování  
+            Znalať, že tvé milování  
 čte z paměti a nezná písmen ani.  
 Leč polétavý bloudku, pojď jen přec,  
 chci pomocen ti být pro jednu věc:  
@@ -1073,12 +1073,12 @@ Zde, za tvou píli.
 
 **CHŮVA**:
 
-                                Ne, to věru ne;  
+            Ne, to věru ne;  
 ni haléře.
 
 **ROMEO**:
 
-                   Jdi, jdi; to musíš vzít.
+            Jdi, jdi; to musíš vzít.
 
 **CHŮVA**:
 
@@ -1104,7 +1104,7 @@ Co chceš, má milá chůvo?
 
 **CHŮVA**:
 
-                                                 Zdali pak  
+            Zdali pak  
 váš sluha věren? Znáte přísloví:  
 „Dva smlčí to, jen jediný co ví“?
 
@@ -1183,14 +1183,14 @@ Ať odejde tvůj sluha.
 
 **CHŮVA**:
 
-                                         Petře, počkej  
+            Petře, počkej  
 tam u dveří.
 
 _PETR odejde._
 
 **JULIE**:
 
-                         Nuž, dobrá, zlatá chůvo. —  
+            Nuž, dobrá, zlatá chůvo. —  
 Ó Bože, co tak smutna vypadáš?  
 Byť zprávy byly teskny, vesele  
 jen pověz je; když dobry, kazíš hudbu  
@@ -1199,7 +1199,7 @@ tak s tváří zatrpklou.
 
 **CHŮVA**:
 
-                                         Jsem zemdlena;  
+            Jsem zemdlena;  
 jen minutu mi přejte oddechu.  
 Fi, jak mne kosti bolí! Byl to hon!
 
@@ -1264,7 +1264,7 @@ Kde vaše matka?“
 
 **CHŮVA**:
 
-                                   Panno přesvatá!  
+            Panno přesvatá!  
 Tak prudká? — Hleďme, — přijďte mi jen zas!  
 Toť náplast na mé kosti bolavé?  
 Nu, podruhé si buďte poslem sama.
@@ -1280,11 +1280,11 @@ dnes k zpovědi?
 
 **JULIE**:
 
-                               To mám.
+            To mám.
 
 **CHŮVA**:
 
-                                                 Tož do cely  
+                  Tož do cely  
 bratra Lorenza pospěšte, a tam  
 choť čeká, by vás pojal za ženu.  
 Teď do tváří vám stoupá bujná krev;  

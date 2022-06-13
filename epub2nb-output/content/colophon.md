@@ -2,7 +2,6 @@
 title: Tiráž
 ---
 
-<section>  
 **William Shakespeare    
 Romeo a Julie**  
 Edice Drama  
@@ -11,12 +10,9 @@ Redakce Jaroslava Bednářová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. elektronické vydání  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
 
 ***
-
-<section>
 
 Znění tohoto textu vychází z díla [Romeo a Julie](https://aleph.nkp.cz/F/?func=direct&doc_number=002109277&local_base=CNB) tak, jak bylo vydáno nakladatelstvím J. Otty v Praze v roce 1900. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -30,5 +26,3 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 
 ![](../Images/image004.jpg)
-
-</section>

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-romeo-a-julie-67489bc",
-  "revision": "67489bc",
+  "identifier": "shakespeare-romeo-a-julie-e7e0038",
+  "revision": "e7e0038",
   "readingOrder": [
     "promo.html",
     "romeo_a_julie_005.html",
@@ -22,8 +22,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:10:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949418984
+    "date": "Mon Jun 13 2022 21:32:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155930130
   },
   "documents": [
     {
@@ -82,7 +82,7 @@
       "title": "JEDNÁNÍ PRVNÍ",
       "file": "romeo_a_julie_007.html",
       "words": 5337,
-      "chars": 29299,
+      "chars": 29254,
       "ideas": 1055,
       "role": "chapter",
       "order": 3,
@@ -361,9 +361,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 78,
-      "chars": 518,
-      "ideas": 7,
+      "words": 116,
+      "chars": 728,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "romeo_a_julie_011.html",
@@ -381,13 +381,13 @@
   ],
   "totals": {
     "all": {
-      "words": 22907,
-      "chars": 126090,
-      "ideas": 4429
+      "words": 22945,
+      "chars": 126255,
+      "ideas": 4439
     },
     "chapters": {
       "words": 22822,
-      "chars": 125529,
+      "chars": 125484,
       "ideas": 4418
     }
   }
