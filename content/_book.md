@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2505-1
+  contentType: prose
 readingOrder:
   - promo.html
   - romeo_a_julie_005.html
