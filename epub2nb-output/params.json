@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2505-1"
+      "isbn": "978-80-274-2505-1",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -321,6 +322,6 @@
       "user": "books-are-next",
       "repo": "romeo-a-julie"
     },
-    "generatedAt": 1655271672141
+    "generatedAt": 1655364325194
   }
 }
