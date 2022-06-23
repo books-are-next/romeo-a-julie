@@ -10,7 +10,7 @@ Redakce Jaroslava Bednářová
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 ISBN 978-80-274-2505-1 (webová kniha)  
-V MKP 3. elektronické vydání z 16. 6. 2022.
+V MKP 3. elektronické vydání z 23. 6. 2022.
 
 ***
 
