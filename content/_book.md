@@ -23,7 +23,7 @@ readingOrder:
   - romeo_a_julie_009.html
   - romeo_a_julie_010.html
   - romeo_a_julie_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
