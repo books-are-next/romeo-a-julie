@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-romeo-a-julie-a079339",
-  "revision": "a079339",
+  "identifier": "shakespeare-romeo-a-julie-f32ed00",
+  "revision": "f32ed00",
   "readingOrder": [
     "promo.html",
     "romeo_a_julie_005.html",
@@ -19,11 +19,11 @@
     "romeo_a_julie_009.html",
     "romeo_a_julie_010.html",
     "romeo_a_julie_011.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:24:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979867639
+    "date": "Thu Jul 07 2022 08:38:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183092842
   },
   "documents": [
     {
@@ -325,7 +325,7 @@
       "role": "chapter",
       "order": 7,
       "prev": "romeo_a_julie_010.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -360,11 +360,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 872,
+      "chars": 871,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "romeo_a_julie_011.html",
       "next": null,
@@ -381,8 +381,8 @@
   ],
   "totals": {
     "all": {
-      "words": 22963,
-      "chars": 126399,
+      "words": 22962,
+      "chars": 126403,
       "ideas": 4440
     },
     "chapters": {
